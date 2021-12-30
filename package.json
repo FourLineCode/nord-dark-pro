@@ -1,0 +1,26 @@
+{
+    "name": "nord-dark-pro",
+    "displayName": "Nord Dark Pro",
+    "description": "A Nord based theme combined with One Dark",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Nord Dark Pro",
+                "uiTheme": "vs-dark",
+                "path": "./themes/nord-dark-pro-color-theme.json"
+            },
+            {
+                "label": "Nord Dark Pro Darker",
+                "uiTheme": "vs-dark",
+                "path": "./themes/nord-dark-pro-darker-color-theme.json"
+            }
+        ]
+    }
+}

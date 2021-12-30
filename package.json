@@ -2,6 +2,33 @@
     "name": "nord-dark-pro",
     "displayName": "Nord Dark Pro",
     "description": "A Nord based theme combined with One Dark",
+    "publisher": "FourLineCode",
+    "author": {
+        "name": "FourLineCode",
+        "url": "https://akmalhossain.vercel.app",
+        "email": "akmal3535.ah@gmail.com"
+    },
+    "repository": {
+        "directory": ".",
+        "type": "github",
+        "url": "https://github.com/FourLineCode/nord-dark-pro"
+    },
+    "homepage": "https://github.com/FourLineCode/nord-dark-pro",
+    "license": "MIT",
+    "keywords": [
+        "dark",
+        "nord",
+        "theme",
+        "vscode",
+        "one dark",
+        "nord dark",
+        "nord theme",
+        "nord darker",
+        "vscode theme",
+        "one dark pro",
+        "nord dark pro",
+        "nord dark pro darker"
+    ],
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.63.0"

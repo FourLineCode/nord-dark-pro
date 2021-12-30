@@ -1,7 +1,8 @@
 {
-    "name": "nord-dark-pro",
+    "name": "flc-nord-dark-pro",
     "displayName": "Nord Dark Pro",
     "description": "A Nord based theme combined with One Dark",
+    "version": "1.0.0",
     "publisher": "FourLineCode",
     "author": {
         "name": "FourLineCode",
@@ -29,7 +30,6 @@
         "nord dark pro",
         "nord dark pro darker"
     ],
-    "version": "0.0.1",
     "engines": {
         "vscode": "^1.63.0"
     },

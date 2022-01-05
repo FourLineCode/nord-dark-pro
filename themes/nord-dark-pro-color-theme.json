@@ -343,6 +343,13 @@
             }
         },
         {
+            "name": "Punctuation Definition Strings",
+            "scope": "punctuation.definition.string",
+            "settings": {
+                "foreground": "#A3BE8C"
+            }
+        },
+        {
             "name": "Punctuation Definition Parameters",
             "scope": [
                 "punctuation.definition.method-parameters",
